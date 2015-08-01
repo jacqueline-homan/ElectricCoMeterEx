@@ -1,0 +1,5 @@
+/home/jacqueline/Projects/ElectricMeterExample/ElectricMeterExample/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/Projects/ElectricMeterExample/ElectricMeterExample/bin/Debug/ElectricMeterExample.exe.mdb
+/home/jacqueline/Projects/ElectricMeterExample/ElectricMeterExample/bin/Debug/ElectricMeterExample.exe
+/home/jacqueline/Projects/ElectricMeterExample/ElectricMeterExample/obj/x86/Debug/ElectricMeterExample.exe
+/home/jacqueline/Projects/ElectricMeterExample/ElectricMeterExample/obj/x86/Debug/ElectricMeterExample.exe.mdb
